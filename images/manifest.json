@@ -1,0 +1,93 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hanjiang96.github.io/fashion_items/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in hanjiang96/fashion_items project"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://hanjiang96.github.io/fashion_items/images/WechatIMG9939/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "WechatIMG9939"
+                ]
+            },
+            "height": 411,
+            "width": 389,
+            "items": [
+                {
+                    "id": "https://hanjiang96.github.io/fashion_items/images/WechatIMG9939/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hanjiang96.github.io/fashion_items/images/WechatIMG9939/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://hanjiang96.github.io/fashion_items/images/WechatIMG9939/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 13,
+                                                "height": 13
+                                            },
+                                            {
+                                                "width": 25,
+                                                "height": 26
+                                            },
+                                            {
+                                                "width": 49,
+                                                "height": 52
+                                            },
+                                            {
+                                                "width": 98,
+                                                "height": 103
+                                            },
+                                            {
+                                                "width": 195,
+                                                "height": 206
+                                            },
+                                            {
+                                                "width": 389,
+                                                "height": 411
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 389,
+                                        "@id": "https://hanjiang96.github.io/fashion_items/images/WechatIMG9939",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 411,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://hanjiang96.github.io/fashion_items/images/WechatIMG9939/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

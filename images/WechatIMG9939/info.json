@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 13,
+    "height" : 13
+  }, {
+    "width" : 25,
+    "height" : 26
+  }, {
+    "width" : 49,
+    "height" : 52
+  }, {
+    "width" : 98,
+    "height" : 103
+  }, {
+    "width" : 195,
+    "height" : 206
+  }, {
+    "width" : 389,
+    "height" : 411
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 389,
+  "@id" : "https://hanjiang96.github.io/fashion_items/images/WechatIMG9939",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 411
+}
