@@ -1,0 +1,13 @@
+{
+  "id" : "https://hanjiang96.github.io/fashion_items/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in hanjiang96/fashion_items project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://hanjiang96.github.io/fashion_items/manifests/ankle.json",
+    "label" : "ankleboot"
+  } ]
+}
